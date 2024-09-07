@@ -5,7 +5,7 @@ import { writeContacts } from '../utils/writeContacts';
 const generateContacts = async (number) => {
   try {
     const contacts = await readContacts();
-    for (let index = 0; index < number; index++) {
+    for (let index = 0; index < number; index += 1) {
       contacts.push(createFakeContact());
     }
     await writeContacts(contacts);
