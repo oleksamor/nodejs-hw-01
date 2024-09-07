@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "id": "4a6f8ef2-839b-4173-aa5f-960365c5d1a1",
+    "name": "Harry McCullough-Becker",
+    "phone": "(325) 499-5223 x373",
+    "email": "Jon.Lemke@yahoo.com",
+    "job": "International Branding Consultant"
+  },
+  {
+    "id": "5d811663-91e6-4eea-9345-eb1f294edf28",
+    "name": "Clayton Hermann",
+    "phone": "(841) 980-0376 x6092",
+    "email": "Aidan_Reichel@hotmail.com",
+    "job": "Corporate Communications Officer"
+  },
+  {
+    "id": "9331749f-1fe1-4a02-af27-94d2b431ccce",
+    "name": "Ted Breitenberg",
+    "phone": "1-993-797-5041",
+    "email": "Maxime8@yahoo.com",
+    "job": "Chief Metrics Designer"
+  }
+]
