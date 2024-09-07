@@ -11,7 +11,7 @@ const generateContacts = async (number) => {
     await writeContacts(contacts);
     console.log('Contacts added succefull!');
   } catch (error) {
-    console.log('failed to read contacts from the file:', error);
+    console.error('failed to read contacts from the file:', error);
   }
 };
 
